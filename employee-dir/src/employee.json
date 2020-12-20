@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "occupation": "Fry Cook",
+    "location": "Metropolis"
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "occupation": "Restaurant Owner",
+    "location": "Gotham"
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "occupation": "Cashier",
+    "location": "Amazon Isles"
+  },
+  {
+    "id": 4,
+    "name": "Flash",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+    "occupation": "Server",
+    "location": "Warehouse"
+  },
+  {
+    "id": 5,
+    "name": "Aquaman",
+    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+    "occupation": "Bartender",
+    "location": "Atlantis"
+  },
+  {
+    "id": 6,
+    "name": "Green Latern",
+    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+    "occupation": "Cook",
+    "location": "Mogo"
+  },
+  {
+    "id": 7,
+    "name": "Robin",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+    "occupation": "Host",
+    "location": "Gotham Circus"
+  },
+  {
+    "id": 8,
+    "name": "Cyborg",
+    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+    "occupation": "Accounting",
+    "location": "Detroit"
+  }
+]
