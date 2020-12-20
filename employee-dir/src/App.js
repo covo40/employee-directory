@@ -7,7 +7,7 @@ import friends from './friends.json';
 function App() {
   return (
     <Wrapper>
-      <Title>Friends List</Title>
+      <Title>Employee List</Title>
       <FriendCard
         name={friends[0].name}
         image={friends[0].image}
