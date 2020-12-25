@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Superman",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "image": "https://www.lego.com/cdn/cs/catalog/assets/blt8de6b3aff0fd5317/1/Superman_1to1_360_480.png",
     "occupation": "Fry Cook",
     "location": "Metropolis"
   },
   {
     "id": 2,
     "name": "Batman",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "image": "https://canary.contestimg.wish.com/api/webimage/5bbf591b56cb2c356b579955-large.jpg?cache_buster=aadf340995a3d62bde0e62926790864e",
     "occupation": "Restaurant Owner",
     "location": "Gotham"
   },
   {
     "id": 3,
     "name": "Wonder Woman",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "image": "https://www.lego.com/cdn/cs/catalog/assets/blt15d0e19985c6bb7a/1/76070_1to1_MF_MUGSHOT_WONDER_WOMAN_336.png",
     "occupation": "Cashier",
     "location": "Amazon Isles"
   },
